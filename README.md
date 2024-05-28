@@ -53,8 +53,11 @@ Drone tracking (DDPG) : Keras-rl / rkassana
 
 ```bash
 $ conda create -n drone python=3.8
+
 $ conda activate drone
+
 $ pip3 install --upgrade pip
+
 $ git clone https://github.com/ziya44/Drone_tracking_with_drone.git
 
 
@@ -80,7 +83,6 @@ OpenAI Gym
 4- Drone should track bounding box in screen.
 ```
 
-
 # please install the following packages
 ```bash
 Python 3.X
@@ -91,4 +93,3 @@ Numpy
 CUDA & NVIDA Drivers(optional)
 OpenAI Gym
 ```
->>>>>>> d3ccce3239afcb59f6cacb8d42cf3213e46002de
